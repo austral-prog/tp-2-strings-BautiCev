@@ -52,4 +52,3 @@ def ficha():
     print(f"Promedio entero: {(int(nota1)+int(nota2)+int(nota3))//3}")
     print("="*24)
     pass
-ficha()

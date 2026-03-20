@@ -19,4 +19,3 @@ def change():
     print("Centavos:")
     print(int(Centavos))
     pass
-change()

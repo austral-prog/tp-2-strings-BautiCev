@@ -14,4 +14,3 @@ def check_vowels():
     print(f"Contiene o: {o}")
     print(f"Contiene u: {u}")
     pass
-check_vowels()

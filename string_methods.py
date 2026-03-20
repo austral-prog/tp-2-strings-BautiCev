@@ -26,4 +26,3 @@ def string_methods():
     print(multilinea[0:7])
     print(multilinea[12:19])
     print(multilinea[24:31])
-string_methods()

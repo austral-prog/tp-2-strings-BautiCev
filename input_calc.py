@@ -9,4 +9,3 @@ def rectangle():
     print(f"Area: {Base * Altura}")
     print(f"Perimetro: {Base*2 + Altura*2}")
     pass
-rectangle()

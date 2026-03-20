@@ -10,4 +10,3 @@ def casting():
     Total = precio_descuento * cantidad
     print("Total: " + str(Total))
     pass
-casting()

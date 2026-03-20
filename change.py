@@ -18,4 +18,3 @@ def change():
     print(Pesos)
     print("Centavos:")
     print(int(Centavos))
-    pass

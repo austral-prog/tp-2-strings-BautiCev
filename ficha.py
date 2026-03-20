@@ -51,4 +51,3 @@ def ficha():
     print(f"Promedio: {(float(nota1)+float(nota2)+float(nota3))/3}")
     print(f"Promedio entero: {(int(nota1)+int(nota2)+int(nota3))//3}")
     print("="*24)
-    pass

@@ -9,4 +9,3 @@ def casting():
     print("Precio con descuento: " + str(precio_descuento))
     Total = precio_descuento * cantidad
     print("Total: " + str(Total))
-    pass

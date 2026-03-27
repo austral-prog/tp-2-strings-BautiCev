@@ -31,9 +31,9 @@ def ficha():
     nota3 = input()
     iniciales = Nombre.find(" ")
     dominio = email.find("@")
-    print("========================")
-    print("    FICHA DEL ALUMNO")
-    print("========================")
+    print("""========================
+    FICHA DEL ALUMNO
+========================""")
     print(f"Nombre: {Nombre.title()}")
     print(f"Email: {email.lower()}")
     print(f"Caracteres en nombre: {len(Nombre)}")

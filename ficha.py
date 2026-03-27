@@ -24,11 +24,11 @@ def ficha():
     #   - Código secreto: nombre invertido en mayúsculas
     #   - Las 3 notas, su suma, promedio y promedio entero
     #   - Cierre decorativo usando repetición de string ("=" * 24)
-    Nombre = input("Ingrese nombre completo: ").strip()
-    email = input("Ingrese email: ")
-    nota1 = input("Ingrese nota1: ")
-    nota2 = input("Ingrese nota2: ")
-    nota3 = input("Ingrese nota3: ")
+    Nombre = input().strip()
+    email = input()
+    nota1 = input()
+    nota2 = input()
+    nota3 = input()
     iniciales = Nombre.find(" ")
     dominio = email.find("@")
     print("========================")
